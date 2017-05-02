@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Client">
+    <output-path>$PROJECT_DIR$/out/artifacts/Client</output-path>
+    <root id="archive" name="InstantM.jar">
+      <element id="module-output" name="InstantM" />
+    </root>
+  </artifact>
+</component>
